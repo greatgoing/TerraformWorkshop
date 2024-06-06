@@ -1,5 +1,5 @@
 prefix              = "prod"
-resource_group_name = "rg-rahalan-prod"
+resource_group_name = "rg-naharneha96-prod"
 # vnetAdressSpace = ["10.1.0.0/16"]
 # subnets = {
 #   "subnet01" = {
